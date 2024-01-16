@@ -1,0 +1,12 @@
+# Arquivos de Cache
+*.cache
+cache/
+
+# Logs de Erros
+*.log
+logs/
+
+# Arquivos Temporários
+*~
+*.tmp
+temp/
