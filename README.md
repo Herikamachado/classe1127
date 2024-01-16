@@ -1,12 +1,12 @@
 ## 💜 ("hello, world!")
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="300px" align="right">
 
-
-Oi, meu nome é Fernanda. Fiz transição de carreira da área de Arquitetura e Urbanismo para TI.  
+Oi, meu nome é Fernanda.   
+🌱 Fiz transição de carreira da área de Arquitetura e Urbanismo para TI.  
 🎓 Sou formada em Banco de Dados e estou na área de tecnologia há 4 anos.  
-💼 Tenho atuado em projetos full-stack, com atividades voltadas para backend, dados e devOps.  
+💼 Tenho atuado em projetos full-stack, em atividades de backend, dados e devOps.
 
 
 ### 🚀 skills
