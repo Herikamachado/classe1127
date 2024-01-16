@@ -1,7 +1,7 @@
 ## 💜 ("hello, world!")
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="100px" max-width="200px" width="200px" align="right">
 
 
 Oi, meu nome é Fernanda. Fiz transição de carreira da área de Arquitetura e Urbanismo para TI.  
