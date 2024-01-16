@@ -10,9 +10,9 @@
 A portfolio website and also have a little about me. I'm a student but I'm having fun learning so much stuffs.
 
 <!--ts-->
-   * [About](#about)
-   * [To-do-list](#to-do-list)
-   * [Author](#author)
+- [About](#about)
+- [To-do-list](#to-do-list)
+  - [Author](#author)
       
 <!--te-->
 
