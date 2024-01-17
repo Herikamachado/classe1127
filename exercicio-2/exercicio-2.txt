@@ -1,0 +1,13 @@
+Exercício 2
+
+-Imagine que você está desenvolvendo um aplicativo da web usando um framework que gera
+automaticamente arquivos de cache, logs de erros e arquivos temporários durante o
+processo de desenvolvimento. Esses arquivos são úteis localmente, mas você não deseja
+que eles sejam incluídos no repositório Git, pois são específicos da máquina e não têm
+valor para outros desenvolvedores.
+
+Como você pode criar um arquivo .gitignore para excluir esses arquivos gerados
+automaticamente do controle de versão?
+
+-Crie o arquivo.cache, .log e .tmp no seu diretorio
+- De um print que os arquivos existem no seu diretório e que pertence ao commit
