@@ -1,7 +1,7 @@
 
 # Sobre mim
 Olá! Eu sou Bruna Minusso, desenvolvedora PHP e moro em São Caetano do Sul, São Paulo, Brasil. Este README destaca minhas principais competências e experiência profissional.
-![Minha Foto](minha_foto.jpg)
+![Minha Foto](minha_foto_dois.jpg)
 
 ## Principais Competências
 
