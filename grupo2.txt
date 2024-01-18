@@ -2,3 +2,11 @@ Andreia Souza
 Bianca Malta
 Bruna Minusso
 Bruna Vieira
+
+https://github.com/tvieirabruna/brunavieira-classe1127
+
+Branch modificada: perfil-brunavieira
+
+ID:  99e8f2c2a858789a8dbff7633577cebd34bd78c
+
+(Professora, eu dei um amend porque vi que digitei .gitignote no commit, não ignore. Como não era meu último commit, dei o rebase. Com isso, acabou mudando a ID do commit. Eu posso mudar prints para você na sexta-feira.)
