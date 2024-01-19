@@ -1,0 +1,9 @@
+# Arquivos de cache
+.cache
+
+# Arquivos de log
+.log
+
+# Arquivos temporários
+.tmp
+
