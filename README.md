@@ -1,6 +1,6 @@
 # Meu Perfil
 
-![Minha Foto](C:\Users\Eveliny Muniz\Downloads\20231021_234633_Original.jpg)
+![Minha Foto](C:\Users\Eveliny Muniz\OneDrive\Área de Trabalho\git-ada)
 
 Olá, eu sou [Eveliny Muniz]! 🌟
 
