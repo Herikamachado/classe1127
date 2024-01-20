@@ -16,4 +16,3 @@ Atualmente, atuo como **Analista de Dados**. Estou sempre em busca de novas mane
 ---
 
 Obrigada por visitar meu perfil!
-
