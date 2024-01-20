@@ -19,7 +19,6 @@ Olá! 👋 Meu nome é Luana Nunes, sou pernambucana e uma Cientista de Dados ap
 ## Contato
 
 - LinkedIn: [Luana Nunes](https://www.linkedin.com/in/luana-nunes-s/)
-- E-mail: seuemail@gmail.com
 
 ## Links dos Exercícios
 - Exercícios 4 e 5: [Link](https://github.com/luanans/novo_repositorio_ex)
