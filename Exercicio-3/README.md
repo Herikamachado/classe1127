@@ -22,9 +22,13 @@ Além de tudo isso, claro, eu faço um curso de DevOps voltado para mulheres na 
 
 ## Contato ☎️
 - Email: larissamatos07.lm@gmail.com
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/lari-matos/)
+- LinkedIn: https://www.linkedin.com/in/lari-matos/
 
 <div align="center">
 <img src="me.jpg" alt="Image description" width="400" height="300   ">
 </div>
+
+---
+
+[Link do repositório com a última atividade](https://github.com/Lrs-mtos/Larissa-classe1127)
 
