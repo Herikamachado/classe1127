@@ -6,4 +6,4 @@ Tenho 24 anos, moro no interior de São Paulo e sempre fui **apaixonada por tecn
 Possuo o ensino médio completo, um **nível intermediário de inglês e um nível básico de espanhol**. Também tenho muita prática no manejo com pessoas, trabalhando há mais de 6 anos como cuidadora de idosos e babá. Sou uma pessoa bastante comunicativa, que gosta de trabalhar em equipe e atualmente busca **oportunidades de emprego** no ramo de TI.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-malta/) 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiancaMalta) 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiancaMalta) </br>[Exercício 4 e 5](https://github.com/BiancaMalta/bianca-malta-classe1127)
