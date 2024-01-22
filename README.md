@@ -44,3 +44,6 @@ Minha trajetória profissional inclui uma transição de arquitetura para o univ
 Sinta-se à vontade para me contatar via [e-mail](mailto:araceli_martinez94@hotmail.com) ou me seguir no [LinkedIn](https://www.linkedin.com/in/aracelimvillar/) para saber mais sobre meu trabalho e jornada profissional.
 
 Agradeço por visitar meu perfil! 😊
+
+
+[Repositório](https://github.com/Aracelimartinez/araceli-classe1127)
