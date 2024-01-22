@@ -8,3 +8,5 @@ Acredito fortemente na importância da colaboração e trabalho em equipe, e est
 
 
 Espero que possamos colaborar em breve!
+
+**22/01/2024** -> [repo do desafio](https://github.com/debora-be/ada-tech-devops-1127)
