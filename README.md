@@ -1,7 +1,10 @@
 <h1 align='center'>Bruna Vieira</h1>
 
+<<<<<<< HEAD
 Link do repositório: https://github.com/tvieirabruna/grupo2/tree/main
 
+=======
+>>>>>>> 212eb34c4acd588b64623c15afbf17a51ba5f092
 ![Photo](https://media.licdn.com/dms/image/D4D22AQFEaD6XNge_PA/feedshare-shrink_1280/0/1701112922931?e=1708560000&v=beta&t=2ddmkkoWF4Nnotk59flGUYFpDm315gemzZdLT7uF0sQ)
 
 Hello! 😄 My name is Bruna, and I hold a master's degree in Biological Sciences (Biophysics) and a degree in Nanotechnology from the Federal University of Rio de Janeiro (UFRJ). I also worked as a Pre-Doctoral Intern at the Bernstein Center for Computational Neuroscience Berlin, where I studied gaze behavior. Currently, I am a DevOps student at Ada Tech, and I am learning Linux, Git, Pipelines, Containers, and Cloud (AWS).
