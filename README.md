@@ -21,3 +21,6 @@ Antes disso, na FATEC São Caetano do Sul - Antonio Russo, exerci o papel de Mon
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunaminusso)
+
+## Repositório do exercício 4 e 5:
+https://github.com/brunaminusso/exercicios_4-5
