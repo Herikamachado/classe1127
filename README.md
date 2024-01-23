@@ -16,4 +16,4 @@ Eu amo andar de bicicleta, estudar e ficar juntinha com minha familia.
 
 ## meu repositorio git
 
-https://github.com/Evelinymuniz/projeto-GIT.git
+https://github.com/Evelinymuniz/projetoFinalGit.git
