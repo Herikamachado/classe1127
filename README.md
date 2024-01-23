@@ -11,7 +11,7 @@ Agora estou numa jornada com a [BRCondos](https://brcondos.com.br/), a equipe qu
 
 
 ## EXERCÍCIO 4 e 5 
-[Repositório](https://github.com/DeBaFig/grupo1_denize/branches)
+[Repositório](https://github.com/DeBaFig/grupo1_denize)
 
 ## Projetos
 
