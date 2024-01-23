@@ -10,46 +10,8 @@ Orgulho-me muito do tempo que passei como Técnica de Sistemas na TV Globo, me a
 Agora estou numa jornada com a [BRCondos](https://brcondos.com.br/), a equipe que eu participa faz o software que é usado para administrar condomínios com excelência! Estou aprendendo muito, e poder colocar em prática tudo que aprendi é muito empolgante!
 
 
-## Conhecimentos
-
-<h3 align="center">FRONT-END</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" height="20" />
-</p>
-
-<h3 align="center">BACK-END</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="20" />
-</p>
-<h3 align="center">DATABASE</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="20" />
-</p>
-<h3 align="center">PLATAFORMAS E SISTEMAS OPERACIONAIS</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20" />
-</p>
-<h3 align="center">METODOLOGIAS ÁGEIS E CONTROLE DE VERSÃO</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="20" />
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="20" />
-</p>
+## EXERCÍCIO 4 e 5 
+[Repositório](https://github.com/DeBaFig/grupo1_denize/branches)
 
 ## Projetos
 
