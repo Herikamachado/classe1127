@@ -1,0 +1,62 @@
+<?xml version ="1.0" encoding="utf-8" standalone="yes"?>
+<infos>
+	<filmes>
+		<filme>
+			<titulo> Trem noturno para Lisboa </titulo>
+			<ano_lancamento> 2013 </ano_lancamento>
+			<elenco_principal> Jeremy Irons; Bruno Ganz; Lena Olin; Christopher Lee</elenco_principal>
+			<tipo> Mistério, Romance, Thriller</tipo>
+			<sinopse> Raimund Gregorius, um professor suíço, salva uma mulher portuguesa que se preparava para pular de uma ponte em Berna, na Suíça. Repentinamente, a mulher desaparece, deixando seu casaco para trás. No bolso de sua roupa esquecida, ele encontra um livro de um autor português, Amadeu do Prado, e um bilhete de trem para Lisboa com data desse mesmo dia. Ele resolve, então, sair de sua rotina e embarca rumo a um destino desconhecido.
+</sinopse>
+		</filme>
+		<filme>
+			<titulo> Adoráveis Mulheres </titulo>
+			<ano_lancamento> 2020 </ano_lancamento>
+			<elenco_principal> Saoirse Ronan, Emma Watson, Florence Pugh </elenco_principal>
+			<tipo> Drama, Romance </tipo>
+			<sinopse> As irmãs Jo (Saoirse Ronan), Beth (Eliza Scanlen), Meg (Emma Watson) e Amy (Florence Pugh) amadurecem na virada da adolescência para a vida adulta enquanto os Estados Unidos atravessam a Guerra Civil. Com personalidades completamente diferentes, elas enfrentam os desafios de crescer unidas pelo amor que nutrem umas pelas outras.
+</sinopse>
+		</filme>
+		<filme>
+			<titulo> tick, tick...boom! </titulo>
+			<ano_lancamento> 2021 </ano_lancamento>
+			<elenco_principal> Andrew Garfield, Alexandra Shipp, Vanessa Hudgens, Robin de Jesús, Joshua Henry, Bradley Whitford, Tariq Trotter, Judith Light </elenco_principal>
+			<tipo> Drama, Teatro, Musical </tipo>
+			<sinopse> Prestes a completar 30 anos, um compositor promissor lida com o amor, a amizade e a pressão para criar algo incrível antes que o tempo acabe. </sinopse>
+		</filme>
+	</filmes>
+	<livros>
+		<livro>
+			<titulo> Aurora: O despertar da mulher exausta</titulo>
+			<ano_lancamento> 2022 </ano_lancamento>
+			<tipo> Cultura Popular, Política, Ciências Sociais </tipo>
+			<numero_paginas> 288 </numero_paginas>
+		</livro>
+		<livro>
+			<titulo> Sidarta </titulo>
+			<ano_lancamento> 1922 </ano_lancamento>
+			<tipo> Filosofia, Ficção Religiosa </tipo>
+			<numero_paginas> 176 </numero_paginas>
+		</livro>
+		<livro>
+			<titulo> A cor púrpura </titulo>
+			<ano_lancamento> 1982 </ano_lancamento>
+			<tipo> Literatura, Ficção </tipo>
+			<numero_paginas> 336 </numero_paginas>
+		</livro>
+	</livros>
+	<comidas>
+		<prato>
+			<nome> Pão de queijo </nome>
+			<ingredientes> polvilho azedo, 800 g de polvilho azedo, água, 1 xícara de água, leite, 1 xícara de leite, óleo, 1/2 xícara de óleo, ovo, 2 ovos, queijo parmesão, 100 g de queijo parmesão ralado, sal, sal a gosto </ingredientes>
+		</prato>
+		<prato>
+			<nome> Pizza </nome>
+			<ingredientes> 1/2 kg de farinha de trigo, açúcar, 2 colheres (sopa) de açúcar, sal, 1/2 colher (sopa) de sal, água, 2 xícaras de água morna, fermento biológico seco, 1 saquinho de fermento biológico em pó, molho de tomate, 300 g de queijo mussarela em pedaços (não fatias), tomate, 3 tomates cortados em fatias, orégano a gosto</ingredientes>
+		</prato>
+		<prato>
+			<nome> Yakisoba </nome>
+			<ingredientes> 300 g de macarrão para yakisoba, cebola, 1 cebola grande picada em pedaços médios, óleo, 1 colher (sopa) de óleo, brócolis, 1/2 maço pequeno de brócolis, couve-flor, 1/2 maço pequeno de couve-flor, molho para yakisoba, 250 ml de molho para yakissoba, molho shoyu, 6 colheres (sopa) de molho shoyu, carne, 400 g de tirinhas de carne (mignon, patinho ou alcatra), cogumelo champignon, 100 g de champignon, cenoura, 1 cenoura cortada em diagonal, acelga, 4 folhas de acelga cortadas em diagonal</ingredientes>
+		</prato>
+	</comidas>
+</infos>
