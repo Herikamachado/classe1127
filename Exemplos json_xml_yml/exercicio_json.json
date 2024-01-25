@@ -1,0 +1,70 @@
+{
+    "preferencias": {
+        "filmes": {
+            "filme": [
+                {
+                    "titulo": "O Profissional",
+                    "anoLancamento": "1994",
+                    "elencoPrincipal": "Jean Reno, Gary Oldman, Natalie Portman",
+                    "tipo": "Drama, Ação",
+                    "sinopse": "Um assassino profissional se torna o protetor de uma menina cuja família é eliminada."
+                },
+                {
+                    "titulo": "Coração Valente",
+                    "anoLancamento": "1995",
+                    "elencoPrincipal": "Mel Gibson, Sophie Marceau, Patrick McGoohan",
+                    "tipo": "Drama, Histórico",
+                    "sinopse": "William Wallace lidera os escoceses na luta pela independência da Escócia contra a Inglaterra."
+                },
+                {
+                    "titulo": "O Pianista",
+                    "anoLancamento": "2002",
+                    "elencoPrincipal": "Adrien Brody, Emilia Fox, Thomas Kretschmann",
+                    "tipo": "Drama, Guerra",
+                    "sinopse": "Um pianista judeu polonês luta pela sobrevivência durante a segunda guerra mundial."
+                }
+            ]
+        },
+        "livros": {
+            "livro": [
+                {
+                    "titulo": "Harry Potter",
+                    "autor": "J.K. Rowling",
+                    "anoLancamento": "1997",
+                    "tipo": "Fantasia",
+                    "numeroPaginas": "223"
+                },
+                {
+                    "titulo": "O Inferno Somos Nós",
+                    "autor": "Leandro Karnal, Monja Coen",
+                    "anoLancamento": "2018",
+                    "tipo": "Autoajuda, Filosofia",
+                    "numeroPaginas": "112"
+                },
+                {
+                    "titulo": "O Mundo Assombrado pelos Demônios",
+                    "autor": "Carl Sagan",
+                    "anoLancamento": "1995",
+                    "tipo": "Ciência, Divulgação Científica",
+                    "numeroPaginas": "496"
+                }
+            ]
+        },
+        "comidas": {
+            "comida": [
+                {
+                    "nome": "Sushi",
+                    "ingredientes": "Arroz, peixe cru, alga marinha"
+                },
+                {
+                    "nome": "Feijão Tropeiro",
+                    "ingredientes": "Feijão, farinha de mandioca, linguiça, bacon, ovos"
+                },
+                {
+                    "nome": "Churrasco",
+                    "ingredientes": "Carne bovina, sal grosso, carvão"
+                }
+            ]
+        }
+    }
+}
