@@ -17,3 +17,4 @@ Sinta-se à vontade para entrar em contato para discutir oportunidades de colabo
 
 
 [GitHub - Rita Aprikian](https://github.com/RitaAprikian/Rita-Classe1127)
+[Exercício 6] (https://github.com/RitaAprikian/Rita-Classe1127/tree/master/ex6)
