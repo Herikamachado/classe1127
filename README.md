@@ -13,3 +13,7 @@ Como DevOps, meu trabalho envolve a integração eficiente entre o desenvolvimen
 Convido você a verificar meu perfil no LinkedIn para obter mais informações sobre minha experiência e habilidades: [LinkedIn - Rita Aprikian](https://www.linkedin.com/in/ritaaprikian/)
 
 Sinta-se à vontade para entrar em contato para discutir oportunidades de colaboração ou simplesmente trocar ideias sobre o fascinante mundo da tecnologia!
+
+
+
+[GitHub - Rita Aprikian](https://github.com/RitaAprikian/Rita-Classe1127)
