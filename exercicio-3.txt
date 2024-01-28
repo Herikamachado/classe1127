@@ -1,0 +1,4 @@
+Exercício 3
+
+-Crie um arquivo README.md escreva sobre vc, quem vc eh, o que vc faz, o que gosta de fazer, um resumo do que vc faz profissionalmente , incluindo uma foto e aproveitando o máximo de funcionalidades do markdown de exemplo para criar um seu próprio 
+-Faca um stash e crie uma branch perfil<seunome> faço um push com essa nova branch
