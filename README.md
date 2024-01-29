@@ -16,3 +16,5 @@ Atualmente, atuo como **Analista de Dados**. Estou sempre em busca de novas mane
 ---
 
 Obrigada por visitar meu perfil!
+
+link do reposítorio: https://github.com/gabrielavillagran/git_versionamento
