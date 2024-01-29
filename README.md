@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mikhaellecode&color=006bed)
 
+## [Link do repositório pessoal](https://github.com/Mikhaelle/mikhaelle-classe1127)
+
 ## Sobre mim
 
 - 🎓 Engenheira de Software Full Stack
@@ -59,6 +61,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Mikhaelle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhaelle-bueno/)]((https://www.linkedin.com/in/mikhaelle-bueno/))
+[![Linkedin](https://img.shields.io/badge/-Mikhaelle-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikhaelle-bueno/)
 [![Gmail Badge](https://img.shields.io/badge/mikhabueno@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikhabueno@gmail.com)](mailto:mikhabueno@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/mikhaelle?label=follow&style=social)](https://github.com/Mikhaelle)
