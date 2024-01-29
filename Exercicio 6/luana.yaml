@@ -1,0 +1,48 @@
+preferencias:
+  filmes:
+    - titulo: "Tudo em Todo Lugar ao Mesmo Tempo"
+      ano_lancamento: "2023"
+      elenco_principal:
+        - "Michelle Yeoh"
+        - "Ke Huy Quan"
+      tipo: "Comédia"
+    - titulo: "O Castelo Animado"
+      ano_lancamento: "2024"
+      elenco_principal:
+        - "Howl"
+        - "Sophie"
+      tipo: "Animação"
+    - titulo: "Meninas Malvadas"
+      ano_lancamento: "2023"
+      elenco_principal:
+        - "Lindsay LOhan"
+      tipo: "Icônico"
+
+  livros:
+    - titulo: "Orgulho e Preconceito"
+      autor: "Jane Austen"
+      ano_lancamento: "1813"
+      tipo: "Romance"
+    - titulo: "Capitães da Areia"
+      autor: "Jorge Amado"
+      ano_lancamento: "1937"
+      tipo: "Romance"
+    - titulo: "Bilhões e Bilhões"
+      autor: "Carl Sagan"
+      ano_lancamento: "1997"
+      tipo: "Não FIcção"
+
+  comidas:
+    - nome: "Bolo"
+      ingredientes:
+        - "Farinha de trigo"
+        - "Leite"
+        - "Ovos"
+    - nome: "Manga"
+    - nome: "Salada"
+      ingredientes:
+        - "Alface"
+        - "Couve folha"
+        - "Tomate"
+        - "Molho"
+

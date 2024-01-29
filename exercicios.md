@@ -32,11 +32,11 @@ automaticamente do controle de versão?
 2. Crie uma branch develop
 3. Nome commit 
 ```
-            Commit 1: alterar a cor do arquivo para vermelho
+            Commit 1: alterar a cor do arquivo para vermelho #ff0000
 	        Commit 2: altere o titulo de testando as cores para seu nome
-			Commit 3: altere novamente a cor para amarelo
+			Commit 3: altere novamente a cor para amarelo #ffc400
 			Commit 4: altere o body (digite um texto)
-			Commit 5: Altere para rosa
+			Commit 5: Altere para rosa #ff008c
 ```
 4. Encontre e inclua o hash de ql commit realizado alterou a cor para amarelo utilizando bisect (de print)
 5. Crie uma versão principal utilizando esse commit.
@@ -44,3 +44,7 @@ automaticamente do controle de versão?
 7. Volte para o commit anterior
 8. Realize um merge da develop.
 9. Atualize no meu repositório em seu README.md o link do seu repo
+
+## Exercícios 6:
+
+- Criação do YAML, XML e JSON com minhas preferências.
